@@ -4,5 +4,3 @@ Pillow
 networkx
 matplotlib
 Pandas
-django_heroku
-gunicorn
