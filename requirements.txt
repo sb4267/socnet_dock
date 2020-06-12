@@ -1,0 +1,8 @@
+django
+django-crispy-forms
+Pillow
+networkx
+matplotlib
+Pandas
+django_heroku
+gunicorn

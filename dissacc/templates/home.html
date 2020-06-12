@@ -1,0 +1,11 @@
+<center>
+<h1>SOCIAL NETWORK</h1>
+</center>
+<br>
+<form class="myclass" action="" method="post">
+{% csrf_token %}
+{% load crispy_forms_tags %}
+{{ u_form|crispy }}
+<br>
+<button type="submit"><strong>submit</strong></button>
+</form>
